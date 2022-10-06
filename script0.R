@@ -6,3 +6,5 @@
 library(tidyverse)
 
 iris %>% summary()
+colnames(iris)
+dim(iris)
