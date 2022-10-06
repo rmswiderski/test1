@@ -3,7 +3,7 @@
     "path": "~/projects/test1/script0.R",
     "project_path": "script0.R",
     "type": "r_source",
-    "hash": "113294679",
+    "hash": "3768796234",
     "contents": "",
     "dirty": false,
     "created": 1665085395560.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,16",
+        "cursorPosition": "1,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1665085417,
+    "lastKnownWriteTime": 1665085966,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1665085417945,
+    "last_content_update": 1665085966609,
     "read_only": false,
     "read_only_alternatives": []
 }
