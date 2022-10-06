@@ -4,3 +4,5 @@
 
 # adding libraries
 library(tidyverse)
+
+iris %>% summary()
